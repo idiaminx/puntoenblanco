@@ -1,0 +1,473 @@
+#EXTM3U
+#EXTINF:-1,RAI 1 HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/2.ts
+#EXTINF:-1,RAI 2 HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/3.ts
+#EXTINF:-1,Rai 3 HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/4.ts
+#EXTINF:-1,Rete 4 HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/5.ts
+#EXTINF:-1,Canale 5 HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/6.ts
+#EXTINF:-1,Italia 1 HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/7.ts
+#EXTINF:-1,La 7 HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/8.ts
+#EXTINF:-1,TV 8
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/9.ts
+#EXTINF:-1,DeeJay TV
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/10.ts
+#EXTINF:-1,RSI La1 HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/11.ts
+#EXTINF:-1,RSI La2 HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/12.ts
+#EXTINF:-1,==****SKY CINEMA****== 
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/13.ts
+#EXTINF:-1,Sky Cinema 1 HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/14.ts
+#EXTINF:-1,Sky Cinema 24 HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/16.ts
+#EXTINF:-1,Sky Cinema Hits HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/17.ts
+#EXTINF:-1,Sky Cinema Family HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/18.ts
+#EXTINF:-1,Sky Cinema Family 1 HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/19.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/20.ts
+#EXTINF:-1,Sky Cinema Max HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/21.ts
+#EXTINF:-1,Sky Cinema Max 1 HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/22.ts
+#EXTINF:-1,Sky Cinema Passion HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/23.ts
+#EXTINF:-1,Sky Cinema Cult HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/24.ts
+#EXTINF:-1,Sky Cinema Classic HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/25.ts
+#EXTINF:-1,==*** SKY INTRATTENIMENTO ***==
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/27.ts
+#EXTINF:-1,Sky Arte HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/28.ts
+#EXTINF:-1,Sky Uno 1 HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/30.ts
+#EXTINF:-1,Sky Atlantic HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/31.ts
+#EXTINF:-1,Sky Atlantic 1 HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/32.ts
+#EXTINF:-1,Fox HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/33.ts
+#EXTINF:-1,Fox 1
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/34.ts
+#EXTINF:-1,https://iptv.zone/en Fox Life HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/35.ts
+#EXTINF:-1,Fox Crime HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/36.ts
+#EXTINF:-1,Fox Crime 1 HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/37.ts
+#EXTINF:-1,Fox Comedy HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/38.ts
+#EXTINF:-1,Fox Animation HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/39.ts
+#EXTINF:-1,CI Crime Investigation HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/40.ts
+#EXTINF:-1,AXN Sci-Fi
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/43.ts
+#EXTINF:-1,Lei
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/44.ts
+#EXTINF:-1,Real Time HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/45.ts
+#EXTINF:-1,Comedy Central
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/46.ts
+#EXTINF:-1,DMAX
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/47.ts
+#EXTINF:-1,CLASSICA HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/48.ts
+#EXTINF:-1,LaEffe
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/49.ts
+#EXTINF:-1,==*** SKY MONDO &amp; CULTURA ***==
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/50.ts
+#EXTINF:-1,Discovery Channel HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/51.ts
+#EXTINF:-1,Discovery Sci HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/52.ts
+#EXTINF:-1,Discovery Travel&amp;Living HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/53.ts
+#EXTINF:-1,National Geo HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/54.ts
+#EXTINF:-1,Nat Geo Wild HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/55.ts
+#EXTINF:-1,Nat Geo People HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/56.ts
+#EXTINF:-1,Sky History HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/57.ts
+#EXTINF:-1,Explora HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/58.ts
+#EXTINF:-1,Gambero Rosso HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/59.ts
+#EXTINF:-1,Animal Planet
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/60.ts
+#EXTINF:-1,MarcoPolo
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/61.ts
+#EXTINF:-1,Alice
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/62.ts
+#EXTINF:-1,Focus
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/63.ts
+#EXTINF:-1,==*** SKY Primafila Live ***==
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/92.ts
+#EXTINF:-1,Vetrina Primafila Live
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/93.ts
+#EXTINF:-1,Prima Fila 1 LIVE
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/97.ts
+#EXTINF:-1,Prima Fila 2 LIVE
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/98.ts
+#EXTINF:-1,Prima Fila 3 LIVE
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/99.ts
+#EXTINF:-1,Prima Fila 4 LIVE
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/100.ts
+#EXTINF:-1,Prima Fila 5 LIVE
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/101.ts
+#EXTINF:-1,Prima Fila 6 LIVE
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/102.ts
+#EXTINF:-1,==***** SKY SPORT *****==
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/116.ts
+#EXTINF:-1,Fox Sports HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/117.ts
+#EXTINF:-1,Sky Sport Plus HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/118.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/119.ts
+#EXTINF:-1,Sky Sport 1 SD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/120.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/121.ts
+#EXTINF:-1,SKY Sport 2 HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/122.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/123.ts
+#EXTINF:-1,Sky Sport F1 HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/124.ts
+#EXTINF:-1,Sky Sport MotoGP HD.
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/125.ts
+#EXTINF:-1,Eurosport HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/126.ts
+#EXTINF:-1,Eurosport 2 HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/127.ts
+#EXTINF:-1,Juventus Tv
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/128.ts
+#EXTINF:-1,Milan channel
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/129.ts
+#EXTINF:-1,Inter Channel
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/130.ts
+#EXTINF:-1,Roma Channel
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/131.ts
+#EXTINF:-1,Lazio Style Channel
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/132.ts
+#EXTINF:-1,BIKE HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/133.ts
+#EXTINF:-1,Uniresat
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/134.ts
+#EXTINF:-1,Class Horse Tv HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/135.ts
+#EXTINF:-1,CACCIA
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/136.ts
+#EXTINF:-1,PESCA
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/137.ts
+#EXTINF:-1,Poker Italia 24
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/138.ts
+#EXTINF:-1,Super Tennis HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/139.ts
+#EXTINF:-1,Auto Moto TV
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/140.ts
+#EXTINF:-1,https://iptv.zone/en Sport Italia
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/141.ts
+#EXTINF:-1,Rai Sport 1
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/142.ts
+#EXTINF:-1,Rai Sport 2
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/143.ts
+#EXTINF:-1,==***** SKY CALCIO *****==
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/144.ts
+#EXTINF:-1,Sky Supercalcio HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/145.ts
+#EXTINF:-1,Sky Calcio 1 HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/146.ts
+#EXTINF:-1,Sky Calcio 2 HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/147.ts
+#EXTINF:-1,Sky Calcio 3 HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/148.ts
+#EXTINF:-1,Sky Calcio 4 HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/149.ts
+#EXTINF:-1,Sky Calcio 5 HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/150.ts
+#EXTINF:-1,Sky Calcio 6 HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/151.ts
+#EXTINF:-1,Sky Calcio 7 HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/152.ts
+#EXTINF:-1,Sky Calcio 8 HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/153.ts
+#EXTINF:-1,Sky Calcio 9 HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/154.ts
+#EXTINF:-1,Sky Calcio 10 HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/155.ts
+#EXTINF:-1,Sky Calcio 11 HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/156.ts
+#EXTINF:-1,==*** NOTIZIE E NEWS ***==
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/157.ts
+#EXTINF:-1,SKY TG24
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/158.ts
+#EXTINF:-1,TG Norba24
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/160.ts
+#EXTINF:-1,Rai News 24
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/161.ts
+#EXTINF:-1,==****** BAMBINI ******==
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/163.ts
+#EXTINF:-1,Boing
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/164.ts
+#EXTINF:-1,Rai Yoyo
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/165.ts
+#EXTINF:-1,Rai Gulp
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/166.ts
+#EXTINF:-1,Cartoonito
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/167.ts
+#EXTINF:-1,TeenNick
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/169.ts
+#EXTINF:-1,Baby Tv
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/170.ts
+#EXTINF:-1,Frisbee
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/171.ts
+#EXTINF:-1,Dea Junior
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/172.ts
+#EXTINF:-1,Super
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/173.ts
+#EXTINF:-1,Nick Junior
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/174.ts
+#EXTINF:-1,Disney XD HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/175.ts
+#EXTINF:-1,Cartoon Network
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/176.ts
+#EXTINF:-1,Premium Disney Junior
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/177.ts
+#EXTINF:-1,Premium Cartoon Network
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/178.ts
+#EXTINF:-1,Holly e Benjy Channel
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/179.ts
+#EXTINF:-1,Masha e Orso Channel
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/180.ts
+#EXTINF:-1,Heidy Channel
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/181.ts
+#EXTINF:-1,Peppa Pig Channel
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/182.ts
+#EXTINF:-1,Premium Disney Channel
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/183.ts
+#EXTINF:-1,Premium Disney Channel 1
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/184.ts
+#EXTINF:-1,Peppa Pig TV
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/185.ts
+#EXTINF:-1,==*** MUSICA &amp; RADIO ***==
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/186.ts
+#EXTINF:-1,Studio 90 Italia
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/187.ts
+#EXTINF:-1,M2Otv
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/189.ts
+#EXTINF:-1,ROCK TV
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/190.ts
+#EXTINF:-1,Hip Pop Music
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/191.ts
+#EXTINF:-1,R.T.L. 102.5
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/192.ts
+#EXTINF:-1,RD 105
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/193.ts
+#EXTINF:-1,RTP
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/194.ts
+#EXTINF:-1,Radio Italia
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/195.ts
+#EXTINF:-1,Radio Taormina
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/196.ts
+#EXTINF:-1,Radio Montecarlo
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/197.ts
+#EXTINF:-1,=*** Bassa Definizione (Adsl Lenta) ***=
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/198.ts
+#EXTINF:-1,RAI 1
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/199.ts
+#EXTINF:-1,RAI 2
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/200.ts
+#EXTINF:-1,RAI 3
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/201.ts
+#EXTINF:-1,Rete 4
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/202.ts
+#EXTINF:-1,Canale 5
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/203.ts
+#EXTINF:-1,Italia 1
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/204.ts
+#EXTINF:-1,Sky Cinema 1
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/206.ts
+#EXTINF:-1,Sky Cinema 1
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/205.ts
+#EXTINF:-1,Sky Cinema 24
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/207.ts
+#EXTINF:-1,Sky Cinema Hits
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/208.ts
+#EXTINF:-1,Sky Cinema Family
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/209.ts
+#EXTINF:-1,Sky Cinema Comedy
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/210.ts
+#EXTINF:-1,Sky Cinema Max
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/211.ts
+#EXTINF:-1,Sky Uno
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/212.ts
+#EXTINF:-1,Sky Atlantic
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/213.ts
+#EXTINF:-1,Fox Life
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/215.ts
+#EXTINF:-1,Fox Crime
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/216.ts
+#EXTINF:-1,Fox Sports
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/218.ts
+#EXTINF:-1,Sky Sport 24
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/219.ts
+#EXTINF:-1,Sky Sport 2
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/220.ts
+#EXTINF:-1,Sky Sport F1
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/221.ts
+#EXTINF:-1,Sky Sport MotoGP
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/222.ts
+#EXTINF:-1,Sky SuperCalcio
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/223.ts
+#EXTINF:-1,Sky Calcio 1
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/224.ts
+#EXTINF:-1,Sky Calcio 2
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/225.ts
+#EXTINF:-1,Sky Calcio 3
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/226.ts
+#EXTINF:-1,Sky Calcio 4
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/227.ts
+#EXTINF:-1,Sky Calcio 5
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/228.ts
+#EXTINF:-1,Sky Calcio 6
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/229.ts
+#EXTINF:-1,Sky Calcio 7
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/230.ts
+#EXTINF:-1,==*** TOP ITALIA / TVSAT ***==
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/231.ts
+#EXTINF:-1,TELENORBA
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/232.ts
+#EXTINF:-1,TeleGalatina
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/233.ts
+#EXTINF:-1,Telerama
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/234.ts
+#EXTINF:-1,TeleBari
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/235.ts
+#EXTINF:-1,Padre Pio TV
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/236.ts
+#EXTINF:-1,https://iptv.zone/en Mediaset Extra
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/237.ts
+#EXTINF:-1,Mediaset Italia 2
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/238.ts
+#EXTINF:-1,Rai Premium
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/239.ts
+#EXTINF:-1,Rai Movie
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/240.ts
+#EXTINF:-1,Top Crime
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/241.ts
+#EXTINF:-1,Iris
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/242.ts
+#EXTINF:-1,Giallo
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/243.ts
+#EXTINF:-1,Cielo HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/244.ts
+#EXTINF:-1,Rai 4
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/245.ts
+#EXTINF:-1,Rai 5
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/246.ts
+#EXTINF:-1,Sicilia Channel
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/247.ts
+#EXTINF:-1,Antenna Sicilia
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/248.ts
+#EXTINF:-1,TV 2000
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/249.ts
+#EXTINF:-1,La 7d
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/250.ts
+#EXTINF:-1,La 7 Gold
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/251.ts
+#EXTINF:-1,La 5
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/252.ts
+#EXTINF:-1,Tremedia
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/253.ts
+#EXTINF:-1,Telecolore
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/254.ts
+#EXTINF:-1,La3
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/255.ts
+#EXTINF:-1,Videolina
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/256.ts
+#EXTINF:-1,==*** PREMIUM CINEMA ***==
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/257.ts
+#EXTINF:-1,Premium Cinema
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/258.ts
+#EXTINF:-1,Premium Cinema HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/259.ts
+#EXTINF:-1,Premium Cinema 2 + 24
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/262.ts
+#EXTINF:-1,Premium Cinema 2 HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/261.ts
+#EXTINF:-1,Premium Cinema 24
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/260.ts
+#EXTINF:-1,Premium Cinema Energy
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/263.ts
+#EXTINF:-1,Premium Cinema Emotion
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/264.ts
+#EXTINF:-1,Premium Cinema Comedy
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/265.ts
+#EXTINF:-1,Premium Crime HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/271.ts
+#EXTINF:-1,Premium Crime 24
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/273.ts
+#EXTINF:-1,==*** PREMIUM SERIE TV ***==
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/267.ts
+#EXTINF:-1,Premium Action
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/268.ts
+#EXTINF:-1,Premium Action HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/269.ts
+#EXTINF:-1,Premium Action 24
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/270.ts
+#EXTINF:-1,Premium Crime
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/272.ts
+#EXTINF:-1,Premium Joy
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/274.ts
+#EXTINF:-1,Premium Stories
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/275.ts
+#EXTINF:-1,==*** DOC.&amp; LIFESTYLE ***==
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/276.ts
+#EXTINF:-1,Discovery Sci HD - Premium
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/277.ts
+#EXTINF:-1,Premium Discovery World.
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/278.ts
+#EXTINF:-1,BBC Knowledge - Premium
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/279.ts
+#EXTINF:-1,Studio Universal - Premium
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/266.ts
+#EXTINF:-1,==*** PREMIUM SPORT 24H ***==
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/280.ts
+#EXTINF:-1,Premium Sport
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/281.ts
+#EXTINF:-1,Sky Uno HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/29.ts
+#EXTINF:-1,Premium Sport HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/282.ts
+#EXTINF:-1,Premium Sport 2 HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/283.ts
+#EXTINF:-1,==*** PREMIUM CALCIO DTT ***==
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/284.ts
+#EXTINF:-1,Premium Calcio 1 HD
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/285.ts
+#EXTINF:-1,Premium Calcio 1
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/286.ts
+#EXTINF:-1,Premium Calcio 2
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/287.ts
+#EXTINF:-1,Premium Calcio 3
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/288.ts
+#EXTINF:-1,Premium Calcio 4
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/289.ts
+#EXTINF:-1,Premium Calcio 5
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/290.ts
+#EXTINF:-1,Premium Calcio 6
+http://37.187.250.2:8000/live/M52gYS2qoC/WkT0hSRMEr/291.ts
